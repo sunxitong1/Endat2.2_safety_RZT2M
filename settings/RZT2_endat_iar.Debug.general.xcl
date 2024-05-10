@@ -1,0 +1,15 @@
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armJET.dll" 
+
+"D:\Renesas-work-file\Encoder\r11an0731xx0120-rzt2m-endat-safety\workspace\Software\iccarm\RZ_T2_endat\Debug\Exe\RZT2_endat_iar.out" 
+
+--plugin="E:\special software\IAR Systems\Embedded Workbench 9.2\arm\bin\armLibSupportUniversal.dll" 
+
+--device_macro="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/Renesas/RZT2M.dmac" 
+
+--flash_loader="E:\special software\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/Renesas/FlashRSK_RZT2M.board" 
+
+
+
+
